@@ -1,0 +1,12 @@
+.AddMeeting > form {
+    width: 300px;
+    margin: auto;
+    text-align: left;
+}
+
+.AddMeeting input, .AddMeeting button, .AddMeeting select {
+	width: 100%;
+    box-sizing: border-box;
+    font-size: x-large;
+    margin-bottom: 30px;
+}

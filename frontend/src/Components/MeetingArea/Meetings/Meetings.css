@@ -1,0 +1,22 @@
+.Meetings {
+	height: 100%;
+}
+
+.meetingCard {
+    width: 20%;
+    height: 250px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 210px;
+}
+
+.Meetings > .meetingCard {
+    display: inline-flex;
+    background-color: lightsalmon;
+    text-align: center;
+    margin: 2%;
+    font-size: medium;
+}
